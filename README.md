@@ -1,5 +1,5 @@
 # COVID19 Related Keyword Analysis : Based on Topic Modeling and Semantic Network Analysis
-2021 Capstone Sangmyung Univ.
+2021 Capstone
 
 ---
 
