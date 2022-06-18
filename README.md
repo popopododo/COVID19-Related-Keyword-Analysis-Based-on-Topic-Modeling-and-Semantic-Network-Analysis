@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=QFeBVmoKTiU
 ---
 
 # Paper
-Decision in Progress
+The Korea Society of Semiconductor & Display Technology : Decision in Progress
