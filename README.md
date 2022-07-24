@@ -9,4 +9,4 @@ https://www.youtube.com/watch?v=QFeBVmoKTiU
 ---
 
 # Paper
-The Korea Society of Semiconductor & Display Technology : Accepted
+Journal of the Semiconductor & Display Technology, Vol. 21, No. 2. June 2022
